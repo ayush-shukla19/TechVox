@@ -1,5 +1,6 @@
-<b> TechVox – Android Application
-Tools & Tech: Java, Android Studio, Firebase </b>
+<b> TechVox – Android Application </b>
+
+<b> Tools & Tech: Java, Android Studio, Firebase </b>
 
 Developed a multi-functional Android app with user authentication (Login/Signup) using Firebase.
 
