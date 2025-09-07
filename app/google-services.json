@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573804979493",
+    "project_id": "techvox-397cd",
+    "storage_bucket": "techvox-397cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573804979493:android:148ce6e99f75c8691966cc",
+        "android_client_info": {
+          "package_name": "com.example.techvox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh1EGpfQm-9nV4kqnqzg_X3mf4Su__BUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

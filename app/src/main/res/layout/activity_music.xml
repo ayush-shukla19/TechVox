@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@drawable/bg0"
+    android:padding="20dp">
+
+    <!-- Title -->
+
+    <!-- Subtitle -->
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="126dp"
+        android:layout_height="88dp"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:text="MUSIC HUB"
+        android:textColor="@android:color/black"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <!-- Wide Buttons -->
+
+    <!-- Back Button -->
+
+
+    <TextView
+        android:id="@+id/tvSubtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:layout_marginBottom="30dp"
+        android:text="Listen Music according to your mood"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnThriller"
+        android:layout_width="230dp"
+        android:layout_height="61dp"
+        android:layout_columnWeight="1"
+        android:layout_margin="5dp"
+        android:background="@drawable/bg1"
+        android:text="THRILLER"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnPop"
+        android:layout_width="225dp"
+        android:layout_height="67dp"
+        android:layout_columnWeight="1"
+        android:layout_margin="5dp"
+        android:background="@drawable/bg2"
+        android:text="POP"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnLofi"
+        android:layout_width="match_parent"
+        android:layout_height="71dp"
+        android:layout_columnWeight="1"
+        android:layout_margin="5dp"
+        android:background="@drawable/bg3"
+        android:text="LOFI"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnRock"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:layout_columnWeight="1"
+        android:layout_margin="5dp"
+        android:background="@drawable/bg4"
+        android:text="ROCK"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnMotivation"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/bg5"
+        android:text="MOTIVATION"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnDevotion"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/bg6"
+        android:text="DEVOTION"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="176dp"
+        android:layout_height="wrap_content"
+        android:background="#FF0000"
+        android:text="BACK"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>
